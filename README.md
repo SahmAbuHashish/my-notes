@@ -76,7 +76,7 @@ Don’t spend your time on repetitive tasks try to automate them.
 
 The optimum code is a small bunch of code that is easy to understand, easy to read.
 
-#### 17. Productivity
+### 17. Productivity
 
 ### 18. Testing
 
